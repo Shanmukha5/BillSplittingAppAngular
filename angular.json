@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "multi-device-programming-assignment"
+    }
+  },
+  "defaultProject": "multi-device-programming-assignment",
+  "cli": {
+    "analytics": false
+  }
 }
